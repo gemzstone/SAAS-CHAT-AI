@@ -17,6 +17,7 @@ const HeadlinesAndDescriptions = () => {
     <div className="h-screen max-w-3xl mx-auto flex flex-col justify-between gap-4 bg-gray-300">
       <section className="flex flex-col gap-4 p-4">
         <h1 className="text-xl font-bold text-center text-white bg-red-500 p-4">
+        <a href={'./'}>Dashboard</a><br/>
           <span>
             <i className="fa-solid fa-square-rss"></i>
           </span>
